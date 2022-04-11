@@ -1,0 +1,14 @@
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.exe
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.deps.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.runtimeconfig.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.runtimeconfig.dev.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.dll
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\bin\Debug\netcoreapp3.1\Parallel.pdb
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.csproj.AssemblyReference.cache
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.AssemblyInfoInputs.cache
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.AssemblyInfo.cs
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.dll
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.pdb
+C:\Users\r0bin\OneDrive\Área de Trabalho\Parallel\Parallel\obj\Debug\netcoreapp3.1\Parallel.genruntimeconfig.cache
